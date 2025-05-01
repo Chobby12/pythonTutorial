@@ -10,7 +10,7 @@
 
 <!-- <hr> -->
 
-<h3>Operators<h3>
+<h3>Operators</h3>
 <ul>
     <li> Addition Sign: +</li>
     <li> Multiplication: *</li>
