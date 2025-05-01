@@ -8,14 +8,19 @@
     <li>String e.g "happy1" "1,34"</li>
 </ul>
 
-<hr>
+<!-- <hr> -->
 
 <h3>Operators<h3>
 <ul>
-    <li>Addition Sign: +</li>
-    <li>Multiplication: *</li>
-    <li>And: and </li>
-    <li>>  : greater than</li>
-    <li>>= : greater than equal to</li>
-
+    <li> Addition Sign: +</li>
+    <li> Multiplication: *</li>
+    <li> Division: / </li>
+    <li> Modulo or Remainder Operator: % </li>
+    <li> And: and </li>
+    <li> >  : greater than</li>
+    <li> >= : greater than equal to</li>
+    <li> < : less than </li>
+    <li> <= : less than equal to </li>
+    <li> == : equal to </li>
+    <li> != : Not equal to</li>
 </ul>
